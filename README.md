@@ -106,7 +106,7 @@ When you **touch** or **cover the sensor**, the bot changes its displayed **mood
 ## 🎥 Demonstration  
 
 🎬 **Watch the Mini Desk Bot in Action:**  
-[▶️ Mini_Desktop_Bot.mp4]([Mini_Desktop_Bot.mp4](https://github.com/im-Fatima/Mini_desk_bot/blob/main/Mini_Desktop_Bot.mp4))
+[▶️ Mini_Desktop_Bot.mp4](Mini_Desktop_Bot.mp4)
 
 ---
 
